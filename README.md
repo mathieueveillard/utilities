@@ -21,3 +21,4 @@
 - https://www.excalidraw.com/
 - https://sharemycode.fr/
 - https://www.overleaf.com/
+- https://favicon.io/
