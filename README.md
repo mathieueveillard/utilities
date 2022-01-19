@@ -8,6 +8,7 @@
 - https://www.iloveimg.com/
 - https://bitly.com/
 - https://www.typeform.com/
+- https://kahoot.it/
 - https://runkit.com/
 - https://app.moqups.com/
 - https://fonts.google.com/
