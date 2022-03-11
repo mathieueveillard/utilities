@@ -5,6 +5,7 @@
 - https://passwordsgenerator.net/
 - https://www.qr-code-generator.com/
 - https://unsplash.com/
+- https://vscode.dev/
 - https://www.iloveimg.com/
 - https://bitly.com/
 - https://www.typeform.com/
