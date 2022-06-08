@@ -16,7 +16,7 @@
 - https://coolors.co/
 - https://mycolor.space/
 - https://fr.lipsum.com/
-- https://regex101.com/
+- https://regexone.com/
 - https://www.epochconverter.com/
 - https://keycode.info/
 - https://bundlephobia.com/
