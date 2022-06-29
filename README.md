@@ -1,6 +1,7 @@
 # utilities
 
 - https://translate.google.fr/?sl=en&tl=fr&op=translate&hl=fr
+- https://coolsymbol.com/cool-fancy-text-generator.html
 - https://www.uuidgenerator.net/
 - https://passwordsgenerator.net/
 - https://www.qr-code-generator.com/
