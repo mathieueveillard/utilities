@@ -16,6 +16,7 @@
 - https://fonts.google.com/
 - https://coolors.co/
 - https://mycolor.space/
+- https://www.magicpattern.design/tools/css-backgrounds
 - https://fr.lipsum.com/
 - https://regexone.com/
 - https://www.epochconverter.com/
