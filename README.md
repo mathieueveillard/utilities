@@ -29,3 +29,4 @@
 - https://postmarkapp.com/
 - https://crontab.guru/
 - https://retool.com/
+- https://slugify.online/
