@@ -30,3 +30,4 @@
 - https://crontab.guru/
 - https://retool.com/
 - https://slugify.online/
+- https://sli.dev/
