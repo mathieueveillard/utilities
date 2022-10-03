@@ -31,3 +31,4 @@
 - https://retool.com/
 - https://slugify.online/
 - https://sli.dev/
+- https://www.getlago.com/
