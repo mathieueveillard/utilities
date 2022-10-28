@@ -32,3 +32,4 @@
 - https://slugify.online/
 - https://sli.dev/
 - https://www.getlago.com/
+- https://nolt.io/
