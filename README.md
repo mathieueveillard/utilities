@@ -28,7 +28,6 @@
 - https://favicon.io/
 - https://postmarkapp.com/
 - https://crontab.guru/
-- https://retool.com/
 - https://slugify.online/
 - https://sli.dev/
 - https://www.getlago.com/
@@ -37,6 +36,7 @@
 - https://www.doc.ic.ac.uk/~svb/chars.html
 - https://carbon.now.sh/
 - https://ray.so/
+- https://sharemycode.io/
 
 Design System:
 
