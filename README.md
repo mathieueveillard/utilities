@@ -29,11 +29,22 @@
 
 ## User interaction
 
+- https://excalidraw.com/
 - https://sharemycode.io/
 - https://www.typeform.com/
 - https://kahoot.com/
 
+## Blogging
+
+- https://unsplash.com/fr
+- https://coolsymbol.com/cool-fancy-text-generator.html
+- https://slugify.online/
+- https://bitly.com/
+- https://www.iloveimg.com/
+- https://ray.so/
+
 ## Misc.
 
-- https://passwordsgenerator.net/
+- https://www.deepl.com/translator
 - https://www.qr-code-generator.com/
+- https://passwordsgenerator.net/
