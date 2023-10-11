@@ -1,5 +1,22 @@
 # utilities
 
+## Blogging
+
+- https://unsplash.com/fr
+- https://www.iloveimg.com/
+- https://imgflip.com/memegenerator
+- https://ray.so/
+- https://coolsymbol.com/cool-fancy-text-generator.html
+- https://slugify.online/
+- https://bitly.com/
+
+## User interaction
+
+- https://excalidraw.com/
+- https://sharemycode.io/
+- https://www.typeform.com/
+- https://kahoot.com/
+
 ## Development
 
 - https://vscode.dev/
@@ -27,23 +44,6 @@
 - https://www.designencyclopedia.io/
 - https://component.gallery/
 - https://calltoinspiration.com/
-
-## User interaction
-
-- https://excalidraw.com/
-- https://sharemycode.io/
-- https://www.typeform.com/
-- https://kahoot.com/
-
-## Blogging
-
-- https://unsplash.com/fr
-- https://imgflip.com/memegenerator
-- https://coolsymbol.com/cool-fancy-text-generator.html
-- https://slugify.online/
-- https://bitly.com/
-- https://www.iloveimg.com/
-- https://ray.so/
 
 ## Misc.
 
