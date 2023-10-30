@@ -27,6 +27,7 @@
 - https://bundlephobia.com/
 - https://favicon.io/
 - https://www.uuidgenerator.net/
+- https://nanoid.yuuniworks.com/
 
 ## User interfaces
 
