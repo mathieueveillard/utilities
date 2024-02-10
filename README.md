@@ -8,7 +8,7 @@
 - https://ray.so/
 - https://coolsymbol.com/cool-fancy-text-generator.html
 - https://slugify.online/
-- https://bitly.com/
+- https://t.ly/
 
 ## User interaction
 
