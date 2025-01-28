@@ -9,6 +9,7 @@
 - https://coolsymbol.com/cool-fancy-text-generator.html
 - https://slugify.online/
 - https://t.ly/
+- https://learn.microsoft.com/en-us/style-guide/welcome/
 
 ## User interaction
 
